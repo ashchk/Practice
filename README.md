@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Ashis's github stats](https://github-readme-stats.vercel.app/api?username=ashis041)](https://github.com/ashis041/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis041)](https://github.com/ashis041/github-readme-stats)
 ![Ashis's github stats](https://github-readme-stats.vercel.app/api?username=ashis041&show_icons=true&theme=radical)
 
@@ -7,6 +7,8 @@
 **ashis041/ashis041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 // theme can be dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 Here are some ideas to get you started:
+
+[![Ashis's github stats](https://github-readme-stats.vercel.app/api?username=ashis041)](https://github.com/ashis041/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
