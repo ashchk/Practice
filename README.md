@@ -1,7 +1,9 @@
 ### Hi there 👋
 ## This is where I test any idea on github profile. If you have any advice please don't hesitate
 
-
+<a href="https://github.com/ashchk/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&repo=Practice" />
+</a>
 <!--
 **ashis041/ashis041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 // theme can be dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
