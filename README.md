@@ -1,7 +1,6 @@
 ### Hi there 👋
+## This is where I test any idea on github profile. If you have any advice please don't hesitate
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis041)](https://github.com/ashis041/github-readme-stats)
-![Ashis's github stats](https://github-readme-stats.vercel.app/api?username=ashis041&show_icons=true&theme=radical)
 
 <!--
 **ashis041/ashis041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
